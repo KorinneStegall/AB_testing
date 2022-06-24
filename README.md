@@ -1,6 +1,11 @@
 # AB Testing - Project Overview
-- 
-
+Discovered whether an e-commerce business should launch a new site by:
+- Creating a database to accurately show conversions from the old and new sites
+- Finding the probability of conversion for each site
+- Using numpy random choice to generate 10,000 outcomes
+- Testing those 10,000 outcomes for conversion rates
+- Finding the p vaue and z score to test my hypothesis
+- Using several regression models to discover if the new site should be launched
 
 ## Code and Resources Used
 **Python Version:** 3.9
