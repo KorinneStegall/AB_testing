@@ -12,6 +12,8 @@ Discovered whether an e-commerce business should launch a new site by:
 
 **Packages Used:** pandas, numpy, matplotlib, random, statsmodels
 
+[Python Notebook](https://github.com/KorinneStegall/AB_testing_websites/blob/8c75c9391ef073dc2725b4fdbeab64f63fedeb19/Analyze_ab_test_results_notebook.ipynb)
+
 ## Table of Contents
 - [Introduction](#intro)
 - [Part I - Cleaning and Probability](#probability)
